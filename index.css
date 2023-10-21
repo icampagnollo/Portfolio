@@ -28,6 +28,7 @@ body{
 .introd{
     color:#7383A2;
     text-align:center;
+    margin-inline: 5%;
 }
 .qualidades{
     text-align:left;
@@ -70,4 +71,5 @@ body{
 .juntos{
     text-align: center;
     display: inline;
+    margin-inline: 2%;
 }
